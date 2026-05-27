@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configspdate",
+        "uuid": 24129144,
+        "checksum": "wm45sc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
